@@ -1,0 +1,11 @@
+# SpaceRider 3 Change Log
+
+### 3.1.1
+
+- Add update checking
+
+- Slightly tweaked a few small settings
+
+### 3.1.0
+
+- New release. Older changelogs are lost

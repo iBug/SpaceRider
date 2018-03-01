@@ -1,0 +1,31 @@
+# SpaceRider 3 Change Log
+
+### 3.2
+
+#### Alpha 1
+
+- Added blast effect for experience orb
+
+- Increased the number of experience orbs (their total value remains unchanged)
+
+- Changed bullet upgrade to infinitely upgradable
+
+- Leveling up via EXP now gains better weapons
+
+- The game now gets harder after the last boss repeats every time
+
+- Made early game slightly easier
+
+- Turrets no longer target the same enemy: They have individual targets now
+
+- Slightly increased turret's durability
+
+### 3.1.1
+
+- Add update checking
+
+- Slightly tweaked a few small settings
+
+### 3.1.0
+
+- New release. Older changelogs are lost

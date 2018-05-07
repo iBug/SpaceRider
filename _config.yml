@@ -1,0 +1,9 @@
+remote_theme: iBug/project-theme
+
+title: SpaceRider
+description: A small, interesting plane shooting game
+show_downloads: true
+
+download:
+  zip_url: https://github.com/iBug/SpaceRider/zipball/3
+  tar_url: https://github.com/iBug/SpaceRider/tarball/3
